@@ -30,6 +30,9 @@ A future feature would be to instead redirect to another hosts which helps you
 track how often you try to get distracted. And that shows you a webpage which 
 insists you to keep working. Hard work work 🧑🏻‍💻
 
+Another future feature would be to track which Wifi the computer is connected 
+to. And to always have work-mode ON if it is a Wifi at the Office.
+
 ## Installation
 Run the `./init.sh` script to setup the initial setup and get instructions.
 
