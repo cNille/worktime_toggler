@@ -1,0 +1,37 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost
+# Added by Docker Desktop
+# To allow the same kube context to work on the host and the container:
+127.0.0.1 kubernetes.docker.internal
+# End of section
+
+# Newsfeeds
+127.0.0.1       hckrnews.com 
+127.0.0.1       www.hckrnews.com 
+127.0.0.1       svt.se 
+127.0.0.1       www.svt.se
+127.0.0.1       feedly.com
+127.0.0.1       www.feedly.com
+127.0.0.1       reddit.com
+127.0.0.1       www.reddit.com
+
+# Video
+127.0.0.1       youtube.com 
+127.0.0.1       www.youtube.com
+
+# Social media
+127.0.0.1       www.facebook.com
+127.0.0.1       facebook.com
+127.0.0.1       instagram.com
+127.0.0.1       www.instagram.com
+127.0.0.1       twitter.com
+127.0.0.1       www.twitter.com
+127.0.0.1       tiktok.com
+127.0.0.1       www.tiktok.com
