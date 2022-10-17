@@ -20,8 +20,8 @@ HOUR=$(date +%H)
 [ $DOW -gt 5 ] && play_time
 # Workday, after work hours (18.00-)
 [ $HOUR -gt 17 ] && play_time 
-# Workday, before work hours (-09.00)
-[ $HOUR -lt 9 ] && play_time 
+# Workday, before work hours (-08.00)
+[ $HOUR -lt 8 ] && play_time 
 
-# Workday, during work hours (09.00-18.00)
+# Workday, during work hours (08.00-18.00)
 work_time
