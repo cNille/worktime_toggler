@@ -33,6 +33,10 @@ insists you to keep working. Hard work work 🧑🏻‍💻
 Another future feature would be to track which Wifi the computer is connected 
 to. And to always have work-mode ON if it is a Wifi at the Office.
 
+A third feature: Enable a way to temporarily de-activate a block for a domain. 
+But log how often this happens for which webpages so that weekly summeries can
+be shown.
+
 ## Installation
 Run the `./init.sh` script to setup the initial setup and get instructions.
 
